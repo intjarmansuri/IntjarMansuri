@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IntjarMansuri
+- 👋 Hi, I’m Intjar Mansuri
 - 👀 Passionate coder👨‍💻 | B.Tech graduate | Eager learner 🚀
 - 🌱 Exploring the world of code, one project at a time! 💻🌐
 - 🚀 Proficient in Mern Stack Development | Enthusiastic learner 🌟
