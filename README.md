@@ -13,8 +13,8 @@ Currently, I’m working as a **Backend Developer** while constantly learning an
 - **Full-Stack (MERN) Projects**
 - **Daily Coding Challenges**
   
-  - [![GeeksforGeeks Logo](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/intjarmansuri)
-  - [![LeetCode Logo](https://img.shields.io/badge/LeetCode-0079FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/IntjarMansuri)
+  [![GeeksforGeeks Logo](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/intjarmansuri)
+  [![LeetCode Logo](https://img.shields.io/badge/LeetCode-0079FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/IntjarMansuri)
 
 ### 📚 Currently Learning:
 <p>
