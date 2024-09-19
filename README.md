@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Intjar Mansuri
 
-## 🚀 Backend Developer | MERN Stack Enthusiast | Lifelong Learner
+## 🚀 Web Developer | MERN Stack Enthusiast | Lifelong Learner
 
 I’m a passionate software developer with a strong foundation in backend development and the MERN stack. My coding journey started with languages like **C, Java, Python**, and **C++**, and now I’m focused on building scalable applications using technologies like **Node.js, React**, and **MongoDB**.
-
-Currently, I’m working as a **Backend Developer** while constantly learning and expanding my skill set. My goal is to solve real-world problems through clean and efficient code while sharing my knowledge with the developer community.
 
 ---
 
 ### 🔧 What I Do:
-- **Backend Development**
+- **Web Development**
 - **Full-Stack (MERN) Projects**
 - **Daily Coding Challenges**
   
