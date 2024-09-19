@@ -14,7 +14,7 @@ Currently, I’m working as a **Backend Developer** while constantly learning an
 - **Daily Coding Challenges**
   
   [![GeeksforGeeks Logo](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/intjarmansuri)
-  [![LeetCode Logo](https://img.shields.io/badge/LeetCode-0079FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/IntjarMansuri)
+  [![LeetCode Logo](https://img.shields.io/badge/LeetCode-0079FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/intjarmansuri)
 
 ### 📚 Currently Learning:
 <p>
@@ -32,7 +32,7 @@ Currently, I’m working as a **Backend Developer** while constantly learning an
   <a href="https://www.linkedin.com/in/intjarmansuri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/IntjarMansuri">
+  <a href="https://github.com/intjarmansuri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
