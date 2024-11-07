@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" width="400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **E-Commerce Webbsite**
+- 🔭 I’m currently working on **Ecommerce WebSite**
 
 - 🌱 I’m currently learning **Next.js**
 
