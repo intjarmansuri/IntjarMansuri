@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Intjar Mansuri</h1>
+<h1 align="center">Hi 👋, I'm Intjar Mansuri | MERN Stack Developer</h1>
 <h3 align="center">MERN Stack Developer | Passionate About Building Scalable Web Solutions | Experienced in C++ </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
