@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Intjar Mansuri | MERN Stack Developer</h1>
-<h3 align="center">MERN Stack Developer | Passionate About Building Scalable Web Solutions | Experienced in C++ </h3>
+<h1 align="center">Hi 👋, I'm Intjar Mansuri | Software Development Engineer in Test (SDET) </h1>
+<h3 align="center"> Focused on Automation Frameworks | Expertise in Selenium, Java, TestNG, and API Testing </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left" style="text-decoration: underline">💻 Check Out My Work</h3>
+<h3 align="left" style="text-decoration: underline">💻 Check Out My Development Work</h3>
 
 <div align="left">
   <!-- Spotify Webplayer -->
